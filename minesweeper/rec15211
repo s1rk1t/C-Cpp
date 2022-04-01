@@ -1,0 +1,14 @@
+p1:
+total 56
+-rw-r--r--. 1 ugrad 4805 Jul  7 16:27 art.cpp
+-rw-r--r--. 1 ugrad  275 Jul  7 16:28 art.h
+-rw-r--r--. 1 ugrad 4505 Jul  7 16:27 board.cpp
+-rw-r--r--. 1 ugrad  393 Jul  7 16:27 board.h
+-rw-r--r--. 1 ugrad 2074 Jul  7 16:28 main.cpp
+-rw-r--r--. 1 ugrad 9835 Jul  7 16:27 minesweeper.cpp
+-rw-r--r--. 1 ugrad  853 Jul  7 16:27 minesweeper.h
+-rw-r--r--. 1 ugrad    0 Jul  7 16:29 rec15211
+-rw-r--r--. 1 ugrad   25 Jul  7 16:28 seed1
+-rw-r--r--. 1 ugrad  763 Jul  7 16:27 space.cpp
+-rw-r--r--. 1 ugrad  358 Jul  7 16:27 space.h
+/home/ugrads/aggeles/p1:/home/work/cs1730

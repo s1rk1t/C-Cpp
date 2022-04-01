@@ -1,0 +1,28 @@
+Summary for week of 4/5
+
+
+Hashing:
+
+Hashing is essentially a key-value pair mapping technique that uses a 
+function to assign an address/index to a unique member of a list/group based
+on some characteristics of that member. For example, a hash function might
+assign an address of 0 to the word apple because it begins with the first
+letter of the alphabet, and 1 to bear because it begins with the second letter
+of the alphabet. Almost inevitably, hash functions will produce a collision,
+which is when two members are assigned to the same address by the hash function.This is overcome by using mutliple entries for various addresses, much as one
+might construct a multidimensional array, or a linked list, or queue for each
+address. Hash functions always run in some constant time, but that time is 
+not guaranteed to be O(1). Worst case, the hash functions will run in O(n) time
+if they use unique addresses for each and every unique member. More compact 
+data structures are considered very useful for accessing hash elements as
+they cut way down on seek/access time.
+
+B-Tree:
+
+A b-tree is a generalization of a binary tree. It contains nodes that 
+contain keys that delineate the organization of the tree. All of the terminal nodes in a B-Tree are the same distance from the root. B-Tree nodes can
+have different numbers of children in some given range, and are therefore
+easier to keep in balance that certain other trees. They are useful for 
+accessing data in O(ln) time, and are very intuitivefor selection, insertion,
+deletion, which are of course the bread and butter of any database oriented
+application. Therefore, B-Trees have been used extensively in the db paradigm. 

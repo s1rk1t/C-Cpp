@@ -1,0 +1,15 @@
+p2:
+total 48
+-rw-r--r--. 1 ugrad  481 Jul 25 13:53 employee.cpp
+-rw-r--r--. 1 ugrad  700 Jul 25 13:53 employee.h
+-rw-r--r--. 1 ugrad 1493 Jul 25 13:54 main.cpp
+-rw-r--r--. 1 ugrad  562 Jul 25 13:55 Makefile
+-rw-r--r--. 1 ugrad 1218 Jul 25 13:54 operator.cpp
+-rw-r--r--. 1 ugrad  407 Jul 25 13:54 operator.h
+-rw-r--r--. 1 ugrad  469 Jul 25 13:54 payrecord.cpp
+-rw-r--r--. 1 ugrad  712 Jul 25 13:54 payrecord.h
+-rw-r--r--. 1 ugrad 4684 Jul 25 14:10 payroll.cpp
+-rw-r--r--. 1 ugrad 1694 Jul 25 13:55 payroll.h
+-rw-r--r--. 1 ugrad   55 Jul 25 13:55 payroll.input.txt
+-rw-r--r--. 1 ugrad    0 Jul 25 14:11 rec19815
+/home/ugrads/aggeles/p2:/home/work/cs1730
